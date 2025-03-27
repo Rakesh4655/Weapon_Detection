@@ -1,0 +1,2 @@
+The file "weapon_training_2000.weights" is too large for GitHub.
+Download it from Google Drive: [https://drive.google.com/drive/folders/1eJ3wBioKTKup5dtB_0buca1dritQ71ZX?usp=drive_link]
